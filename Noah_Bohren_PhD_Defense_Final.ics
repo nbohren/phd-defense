@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Noah Bohren//PhD Defense//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:noah-bohren-phd-defense-20260724@hec-lausanne
+DTSTAMP:20260706T140000Z
+DTSTART:20260724T160000
+DTEND:20260724T173000
+SUMMARY:PhD Defense – Noah Bohren: "What Is an Economist?"
+LOCATION:Room 109, Extranef Building, UNIL-Dorigny, Lausanne
+ORGANIZER;CN=Noah Bohren:mailto:bohren.noah@gmail.com
+DESCRIPTION:Public PhD defense at HEC Lausanne followed by an apéritif.\n\nPresentation: "What Is an Economist?"\n\nThe presentation will offer an accessible introduction to how economists think about causality, experiments, and human decision-making, using examples from research on artificial intelligence, online ratings, and behavior.\n\nGuests are warmly invited to join the apéritif following the defense.\n\nInvitation page and RSVP:\nhttps://www.notion.so/noahbohren/Noah-Bohren-PhD-Defense-395afac8369b801bbd50d1350a146eb9?source=copy_link\n\nMicrosoft Teams:\nhttps://teams.microsoft.com/meet/332591362192789?p=pgndRiW5fzDMtmyrF7\n\nMeeting ID: 332 591 362 192 789\nPasscode: Fz3Wf7z8
+URL:https://www.notion.so/noahbohren/Noah-Bohren-PhD-Defense-395afac8369b801bbd50d1350a146eb9?source=copy_link
+
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Noah Bohren's PhD defense is in one week.
+TRIGGER:-P7D
+END:VALARM
+
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Noah Bohren's PhD defense is in two days.
+TRIGGER:-P2D
+END:VALARM
+
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Noah Bohren's PhD defense is in two hours.
+TRIGGER:-PT2H
+END:VALARM
+
+END:VEVENT
+END:VCALENDAR
